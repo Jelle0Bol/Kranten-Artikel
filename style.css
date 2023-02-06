@@ -1,0 +1,35 @@
+h1 {
+    color: blue
+}
+
+p {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.img_1 {
+    float: left;
+    margin: 0px 20px 20px 20px;
+}
+
+.img_2 {
+    float: right;
+    margin: 0px 20px 20px 20px;
+}
+
+.img_3 {
+    float: left;
+    margin: 0px 20px 20px 20px;
+}
+
+#grote-div {
+    max-width: 1000px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}
+
+html {
+    background-color: lightblue;
+}
